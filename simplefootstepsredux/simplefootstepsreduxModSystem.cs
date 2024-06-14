@@ -4,6 +4,7 @@ using System.Linq;
 using Vintagestory.API.Common;
 using Vintagestory.API.Common.Entities;
 using Vintagestory.API.MathTools;
+using Vintagestory.Common;
 using Vintagestory.GameContent;
 
 namespace simplefootstepsredux
@@ -33,7 +34,13 @@ namespace simplefootstepsredux
 
         public override void AssetsFinalize(ICoreAPI api)
         {
-            soundEntries = api.Assets.TryGet("simplefootstepsredux:config/soundentries.json").ToObject<List<SoundEntry>>();
+            soundEntries = new List<SoundEntry>();// = api.Assets.TryGet("simplefootstepsredux:config/soundentries.json").ToObject<List<SoundEntry>>();
+            List<IAsset> many = api.Assets.GetMany("config/soundentries.json");
+            foreach (IAsset asset in many)
+            {
+                List<SoundEntry>se=asset.ToObject<List<SoundEntry>>();
+                if (se != null&&se.Count>0) { soundEntries.AddRange(se); }
+            }
             base.AssetsFinalize(api);
         }
 
