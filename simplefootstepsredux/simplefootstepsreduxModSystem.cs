@@ -17,12 +17,30 @@ namespace simplefootstepsredux
                 if (soundEntries == null)
                 {
                     soundEntries = new List<SoundEntry>();
-                    SoundEntry test=new SoundEntry();
-                    test.mobMatchCode = "drifter";
-                    test.soundTrigger = "wander";
-                    test.soundFile = "simplefootstepsredux:sounds/creature/steps/npc";
-                    test.soundTime = 0.55f;
-                    soundEntries.Add(test);
+                    SoundEntry testWander=new SoundEntry();
+                    testWander.mobMatchCode = "drifter";
+                    testWander.soundTrigger = "wander";
+                    testWander.soundFile = "simplefootstepsredux:sounds/creature/steps/npc";
+                    testWander.soundTime = 0.55f;
+                    soundEntries.Add(testWander);
+                    SoundEntry testFlee = new SoundEntry();
+                    testFlee.mobMatchCode = "drifter";
+                    testFlee.soundTrigger = "fleeentity";
+                    testFlee.soundFile = "simplefootstepsredux:sounds/creature/steps/npc";
+                    testFlee.soundTime = 0.25f;
+                    SoundEntry testSeek = new SoundEntry();
+                    testSeek.mobMatchCode = "drifter";
+                    testSeek.soundTrigger = "seekentity";
+                    testSeek.soundFile = "simplefootstepsredux:sounds/creature/steps/drifter";
+                    testSeek.soundTime = 0.35f;
+                    soundEntries.Add(testSeek);
+                    SoundEntry testWater = new SoundEntry();
+                    testSeek.mobMatchCode = "drifter";
+                    testSeek.soundTrigger = "getoutofwater";
+                    testSeek.soundFile = "simplefootstepsredux:sounds/creature/steps/water";
+                    testSeek.soundTime = 0.75f;
+                    soundEntries.Add(testSeek);
+
                 }
                 return soundEntries;
 
