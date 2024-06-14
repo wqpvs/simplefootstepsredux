@@ -1,4 +1,5 @@
 ﻿
+using System.Collections.Generic;
 using Vintagestory.API.Common;
 using Vintagestory.API.Common.Entities;
 using Vintagestory.API.MathTools;
@@ -8,6 +9,23 @@ namespace simplefootstepsredux
 {
     public class simplefootstepsreduxModSystem : ModSystem
     {
+        public static List<SoundEntry> soundEntries;
+        public static List<SoundEntry> SoundEntries
+        {
+            get {
+                if (soundEntries == null)
+                {
+                    soundEntries = new List<SoundEntry>();
+                    SoundEntry test=new SoundEntry();
+                    test.mobMatchCode = "drifter";
+                    test.soundTrigger = "wander";
+                    test.soundFile = "simplefootstepsredux:sounds/creature/steps/npc";
+                    test.soundTime = 0.55f;
+                }
+                return soundEntries;
+
+            }
+        }
         public override void Start(ICoreAPI api)
         {
             base.Start(api);
