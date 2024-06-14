@@ -20,7 +20,9 @@ namespace simplefootstepsredux
         public string soundTrigger; //the name of the sound, eg: wander
                              //wander,fleeentity,seekentity,getoutofwater
         public string soundFile; //the full filename of the relevant sound eg: simplefootstepsredux:sounds/creature/steps/npc
-        public float soundTime; //the delay between sounds eg: 0.55
+        public float soundTime=0.5f; //the delay between sounds eg: 0.55
+        public float volume=1;
+        public bool changepitch = false;
     }
     
 }

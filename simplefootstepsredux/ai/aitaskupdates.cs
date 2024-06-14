@@ -12,6 +12,9 @@ namespace simplefootstepsredux
         bool alreadycheckedforsound = false;
         public float stepTimer = new float();
         float stepTimerStop = 0.55f;
+        float volume = 1;
+        float range = 32;
+        bool changepitch = true;
         public override bool ContinueExecute(float dt)
         {
             if (stepSound == null && !alreadycheckedforsound)
@@ -22,6 +25,8 @@ namespace simplefootstepsredux
                 {
                     stepSound = new AssetLocation(trysound.soundFile);
                     stepTimerStop = trysound.soundTime;
+                    volume = trysound.volume;
+                    changepitch=trysound.changepitch;
                 }
             }
             if (stepSound == null) { return base.ContinueExecute(dt); }
@@ -29,7 +34,7 @@ namespace simplefootstepsredux
 
             if (stepTimer >= stepTimerStop)
             {
-                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z);
+                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z,null,true,32,volume);
                 stepTimer = 0;
             }
 
@@ -50,6 +55,9 @@ namespace simplefootstepsredux
         bool alreadycheckedforsound = false;
         public float stepTimer = new float();
         float stepTimerStop = 0.55f;
+        float volume = 1;
+        float range = 32;
+        bool changepitch = true;
         public override bool ContinueExecute(float dt)
         {
             if (stepSound == null && !alreadycheckedforsound)
@@ -60,6 +68,8 @@ namespace simplefootstepsredux
                 {
                     stepSound = new AssetLocation(trysound.soundFile);
                     stepTimerStop = trysound.soundTime;
+                    volume = trysound.volume;
+                    changepitch = trysound.changepitch;
                 }
             }
             if (stepSound == null) { return base.ContinueExecute(dt); }
@@ -67,7 +77,7 @@ namespace simplefootstepsredux
 
             if (stepTimer >= stepTimerStop)
             {
-                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z);
+                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z, null, true, 32, volume);
                 stepTimer = 0;
             }
 
@@ -87,6 +97,9 @@ namespace simplefootstepsredux
         bool alreadycheckedforsound = false;
         public float stepTimer = new float();
         float stepTimerStop = 0.55f;
+        float volume = 1;
+        float range = 32;
+        bool changepitch = true;
         public override bool ContinueExecute(float dt)
         {
             if (stepSound == null && !alreadycheckedforsound)
@@ -97,6 +110,8 @@ namespace simplefootstepsredux
                 {
                     stepSound = new AssetLocation(trysound.soundFile);
                     stepTimerStop = trysound.soundTime;
+                    volume = trysound.volume;
+                    changepitch = trysound.changepitch;
                 }
             }
             if (stepSound == null) { return base.ContinueExecute(dt); }
@@ -104,9 +119,11 @@ namespace simplefootstepsredux
 
             if (stepTimer >= stepTimerStop)
             {
-                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z);
+                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z, null, true, 32, volume);
                 stepTimer = 0;
             }
+
+            
 
             return base.ContinueExecute(dt);
 
@@ -124,6 +141,9 @@ namespace simplefootstepsredux
         bool alreadycheckedforsound = false;
         public float stepTimer = new float();
         float stepTimerStop = 0.55f;
+        float volume = 1;
+        float range = 32;
+        bool changepitch = true;
         public override bool ContinueExecute(float dt)
         {
             if (stepSound == null && !alreadycheckedforsound)
@@ -134,6 +154,8 @@ namespace simplefootstepsredux
                 {
                     stepSound = new AssetLocation(trysound.soundFile);
                     stepTimerStop = trysound.soundTime;
+                    volume = trysound.volume;
+                    changepitch = trysound.changepitch;
                 }
             }
             if (stepSound == null) { return base.ContinueExecute(dt); }
@@ -141,7 +163,7 @@ namespace simplefootstepsredux
 
             if (stepTimer >= stepTimerStop)
             {
-                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z);
+                world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z, null, true, 32, volume);
                 stepTimer = 0;
             }
 
