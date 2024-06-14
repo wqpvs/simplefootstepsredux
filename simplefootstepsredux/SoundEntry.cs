@@ -15,6 +15,7 @@ namespace simplefootstepsredux
     /// </summary>
     public class SoundEntry
     {
+        
         public string mobMatchCode; //the mobs code or wildcard pattern this applies to, eg: drifter
         public string soundTrigger; //the name of the sound, eg: wander
                              //wander,fleeentity,seekentity,getoutofwater
