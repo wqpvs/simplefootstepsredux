@@ -7,7 +7,7 @@ namespace simplefootstepsredux
     public class AiTaskLoudDrifterWander : AiTaskWander
     {
 
-        public AssetLocation stepSound = new AssetLocation("simplestep", "sounds/creature/steps/drifter");
+        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/drifter");
         public float stepTimer = new float();
         
 
@@ -33,7 +33,7 @@ namespace simplefootstepsredux
     public class AiTaskLoudDrifterSeekEntity : AiTaskSeekEntity
     {
 
-        public AssetLocation stepSound = new AssetLocation("simplestep", "sounds/creature/steps/drifter");
+        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/drifter");
         public float stepTimer = new float();
 
 
@@ -59,7 +59,7 @@ namespace simplefootstepsredux
     public class AiTaskLoudDrifterFleeEntity : AiTaskFleeEntity
     {
 
-        public AssetLocation stepSound = new AssetLocation("simplestep", "sounds/creature/steps/drifter");
+        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/drifter");
         public float stepTimer = new float();
 
 
@@ -85,7 +85,7 @@ namespace simplefootstepsredux
     public class AiTaskLoudDrifterGetOutOfWater : AiTaskGetOutOfWater
     {
 
-        public AssetLocation stepSound = new AssetLocation("simplestep", "sounds/creature/steps/water");
+        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/water");
         public float stepTimer = new float();
         
 
@@ -116,7 +116,7 @@ namespace simplefootstepsredux
 
     public class AiTaskLoudWander : AiTaskWander
     {
-        public AssetLocation stepSound = new AssetLocation("simplestep", "sounds/creature/steps/npc");
+        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/npc");
         public float stepTimer = new float();
 
         public override bool ContinueExecute(float dt)
@@ -141,7 +141,7 @@ namespace simplefootstepsredux
 
     public class AiTaskLoudFleeEntity : AiTaskFleeEntity
     {
-        public AssetLocation stepSound = new AssetLocation("simplestep", "sounds/creature/steps/npc");
+        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/npc");
         public float stepTimer = new float();
         public override bool ContinueExecute(float dt)
         {
@@ -164,7 +164,7 @@ namespace simplefootstepsredux
 
     public class AiTaskLoudSeekEntity : AiTaskSeekEntity
     {
-        public AssetLocation stepSound = new AssetLocation("simplestep", "sounds/creature/steps/npc");
+        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/npc");
         public float stepTimer = new float();
         public override bool ContinueExecute(float dt)
         {
@@ -187,7 +187,7 @@ namespace simplefootstepsredux
 
     public class AiTaskLoudGetOutOfWater : AiTaskGetOutOfWater
     {
-        public AssetLocation stepSound = new AssetLocation("simplestep", "sounds/creature/steps/water");
+        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/water");
         public float stepTimer = new float();
 
         public override bool ContinueExecute(float dt)
