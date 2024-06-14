@@ -1,0 +1,2018 @@
+[
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/thirdparty/pantherinae/pantherinae-neofelis-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/thirdparty/pantherinae/pantherinae-neofelis-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/thirdparty/pantherinae/pantherinae-panthera-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/thirdparty/pantherinae/pantherinae-panthera-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-getoutofwater",
+    "file": "thecritterpack:entities/land/duck/duck-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/3/code",
+    "value": "silent-getoutofwater",
+    "file": "thecritterpack:entities/land/duck/duck-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/8/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/air/waxwing/waxwing_g.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/air/waxwing/waxwing_g.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/air/waxwing/waxwing_g.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/air/waxwing/waxwing_g.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/fieldmouse/fieldmouse.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/snail/snaily.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/3/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/snail/snaily.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/6/code",
+    "value": "silent-getoutofwater",
+    "file": "thecritterpack:entities/land/snail/snaily.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/11/aitasks/12/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/fox.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/thirdparty/ostrich-chick.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "game:entities/thirdparty/ostrich-chick.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "game:entities/thirdparty/pantherinae/pantherinae-neofelis-cub.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "game:entities/thirdparty/pantherinae/pantherinae-panthera-cub.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/thirdparty/sharks.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/thirdparty/sharks.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/3/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/thirdparty/sharks.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/thirdparty/sharks.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "game:entities/thirdparty/sharks.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "leopardgeckos:entities/land/leopardgecko.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "leopardgeckos:entities/land/leopardgecko.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "leopardgeckos:entities/land/leopardgecko.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-juvenile.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-juvenile.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-juvenile.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-female.json",
+	"side": "Server"
+  },
+   {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "newworldgianttortoises:entities/land/chelonoidis-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/8/code",
+    "value": "silent-wander",
+    "file": "beardeddragons:entities/land/beardeddragons.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "beardeddragons:entities/land/beardeddragons.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "beardeddragons:entities/land/beardeddragons.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "cob:entities/water/stingray.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/water/stingray.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/stingray.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-wander",
+    "file": "giantgouramis:entities/water/giantgourami.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "giantgouramis:entities/water/giantgourami.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-wander",
+    "file": "peacockbasses:entities/water/peacockbass.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "peacockbasses:entities/water/peacockbass.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-wander",
+    "file": "truesunfishes:entities/water/truesunfishes.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "truesunfishes:entities/water/truesunfishes.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/glowworm.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/cochineal.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/cricket.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/cricket.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/cricket.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/kiwi-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/4/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/land/kiwi-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/kiwi-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/water/crawfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "game:entities/water/crawfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/slug.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/slug.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/gardensnail.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/gardensnail.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/tortoise-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/tortoise-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/tortoise-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/tortoise-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/tortoise-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/tortoise-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/rolypoly.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/rolypoly.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/hamster-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/hamster-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/hamster-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/hamster-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/hamster-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/hamster-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/gecko.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/gecko.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/water/flamejellyfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/water/flamejellyfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "game:entities/water/flamejellyfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/salamander.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/salamander.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/cassowary-chick.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/cassowary-chick.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/land/toad.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "game:entities/land/toad.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/toad.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/toad.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/honeybadger-pup.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/cricket.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/cricket.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/cricket.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/grasshopper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/kiwi-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/4/code",
+    "value": "silent-seekentity",
+    "file": "creaturescan:entities/land/kiwi-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/kiwi-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/water/crawfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/water/crawfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/slug.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/slug.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/gardensnail.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/gardensnail.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/tortoise-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/tortoise-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/tortoise-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/tortoise-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/tortoise-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/tortoise-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/rolypoly.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/rolypoly.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/hamster-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/hamster-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/hamster-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/hamster-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/hamster-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/hamster-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/gecko.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/gecko.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/water/flamejellyfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "creaturescan:entities/water/flamejellyfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/water/flamejellyfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/salamander.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/salamander.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/cassowary-chick.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/cassowary-chick.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "creaturescan:entities/land/toad.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "creaturescan:entities/land/toad.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/toad.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/toad.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "creaturescan:entities/land/honeybadger-pup.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "entities/land/chicken-rooster.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/3/code",
+    "value": "silent-seekentity",
+    "file": "entities/land/chicken-rooster.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/4/code",
+    "value": "silent-fleeentity",
+    "file": "entities/land/chicken-rooster.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/11/code",
+    "value": "silent-wander",
+    "file": "entities/land/chicken-rooster.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/11/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "entities/land/chicken-hen.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/11/aitasks/8/code",
+    "value": "silent-wander",
+    "file": "entities/land/chicken-hen.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "entities/land/chicken-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "entities/land/chicken-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/livingdead.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/3/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/livingdead.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-fleeentity",
+    "file": "primitivesurvival:entities/land/livingdead.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/5/code",
+    "value": "silent-fleeentity",
+    "file": "primitivesurvival:entities/land/livingdead.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/9/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/livingdead.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/10/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/livingdead.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/3/aitasks/0/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/fireflies.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/2/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/earthworm.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/2/aitasks/2/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/earthworm.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "entities/meta/sfxspeaker/cob_sfx-cavedripping.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "entities/meta/sfxspeaker/cob_sfx-cricket.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "entities/meta/sfxspeaker/cob_sfx-demonrock.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "entities/meta/sfxspeaker/cob_sfx-frog.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "entities/meta/sfxspeaker/cob_sfx-lark.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "entities/meta/sfxspeaker/cob_sfx-owl.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cat-private-alt.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cob_cat-private.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/cob_cavebug.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/cob_cavebug.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/cob_fieldmouse.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/cob_fieldmouse.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cob_fieldmouse.json",
+	"side": "Server"
+  },  
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/cob_gemlizard.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/cob_gemlizard.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/cob_rat.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/cob_rat.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cob_rat.json",
+	"side": "Server"
+  },  
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/3/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cob_magic-mushroom-brown.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/3/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cob_magic-mushroom-green.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/3/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cob_magic-mushroom-red.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/3/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cob_magic-mushroom-red-d-tpm.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/cob_magic-mushroom-red-d.json",
+	"side": "Server"
+  },  
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/1/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/land/spider.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/spider.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/3/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/land/spider.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/8/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/spider.json",
+	"side": "Server"
+  },  
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/squirrel-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/9/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/squirrel-baby.json",
+	"side": "Server"
+  },  
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/squirrel-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/8/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/squirrel-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/squirrel-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/8/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/land/squirrel-male.json",
+	"side": "Server"
+  },
+   {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "cob:entities/land/squirrel-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/meta/sfxspeaker/cob_sfx-cavedripping.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/meta/sfxspeaker/cob_sfx-cricket.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/meta/sfxspeaker/cob_sfx-demonrock.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/meta/sfxspeaker/cob_sfx-frog.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/meta/sfxspeaker/cob_sfx-lark.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/meta/sfxspeaker/cob_sfx-owl.json",
+	"side": "Server"
+  },  
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/mobs/cob_anglerfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/mobs/cob_anglerfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/3/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/mobs/cob_anglerfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/mobs/cob_anglerfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "cob:entities/mobs/cob_anglerfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/1/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/mobs/cob_anomaly.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/mobs/cob_anomaly.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/mobs/cob_zillawasp.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/mobs/cob_zillawasp.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "cob:entities/mobs/cob_zillawasp.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/bullfrog.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/cob_turtle.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "cob:entities/water/cob_turtle.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/cob_duck.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/3/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/cob_duck.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/water/cob_duck.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "cob:entities/water/cob_duck.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/cob_exoticfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/1/code",
+    "value": "silent-wander",
+    "file": "cob:entities/water/cob_exoticfish.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/water/crocodile.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/7/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/water/crocodile.json",
+	"side": "Server"
+  }, 
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/stingray.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/water/stingray.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/7/code",
+    "value": "silent-seekentity",
+    "file": "cob:entities/water/crocodile-hatchling.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/seasnail.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/2/code",
+    "value": "silent-wander",
+    "file": "cob:entities/water/seasnail.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "entities/water/seasnail.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/2/code",
+    "value": "silent-wander",
+    "file": "entities/water/seasnail.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/duck/duck-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/duck/duck-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/7/code",
+    "value": "silent-getoutofwater",
+    "file": "thecritterpack:entities/land/duck/duck-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/air/crow/c_crow.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/air/crow/c_crow.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/air/crow/c_crow.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/air/crow/c_crow.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/4/aitasks/3/code",
+    "value": "silent-getoutofwater",
+    "file": "thecritterpack:entities/air/crow/crow_flying.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/crab/crab-both.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/crab/crab-both.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/6/code",
+    "value": "silent-seekentity",
+    "file": "thecritterpack:entities/land/crab/crab-both.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/squirrel/squirrel-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/9/code",
+    "value": "silent-seekentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-baby.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/10/aitasks/9/code",
+    "value": "silent-seekentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-female.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/0/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/6/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/9/aitasks/9/code",
+    "value": "silent-seekentity",
+    "file": "thecritterpack:entities/land/hedgehog/hedgehog-male.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/3/code",
+    "value": "silent-wander",
+    "file": "thecritterpack:entities/land/woodlouse/woodlouse.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/6/aitasks/0/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/grub.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "game:entities/water/salmon.json",
+	"side": "Server"
+  },
+   {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-wander",
+    "file": "game:entities/water/salmon.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "cob:entities/water/discus.json",
+	"side": "Server"
+  },
+   {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-wander",
+    "file": "cob:entities/water/discus.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/3/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/locust.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/9/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/locust.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/10/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/locust.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/locust-hacked.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/11/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/locust-hacked.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/7/aitasks/12/code",
+    "value": "silent-wander",
+    "file": "game:entities/land/locust-hacked.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/snake-blackrat.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "primitivesurvival:entities/land/snake-blackrat.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/snake-blackrat.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/snake-blackrat.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/snake-chainviper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "primitivesurvival:entities/land/snake-chainviper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/snake-chainviper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/snake-chainviper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/0/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/snake-coachwhip.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-fleeentity",
+    "file": "primitivesurvival:entities/land/snake-coachwhip.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/snake-coachwhip.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/5/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/snake-coachwhip.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/1/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/snake-pitviper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/2/code",
+    "value": "silent-fleeentity",
+    "file": "primitivesurvival:entities/land/snake-pitviper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/4/code",
+    "value": "silent-seekentity",
+    "file": "primitivesurvival:entities/land/snake-pitviper.json",
+	"side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/8/aitasks/7/code",
+    "value": "silent-wander",
+    "file": "primitivesurvival:entities/land/snake-pitviper.json",
+	"side": "Server"
+  }
+]

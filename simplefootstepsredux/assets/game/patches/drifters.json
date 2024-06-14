@@ -1,0 +1,37 @@
+[
+    {
+        "op": "replace",
+        "path": "/server/behaviors/8/aitasks/0/code",
+        "value": "drifterfleeentity",
+        "file": "entities/land/drifter.json",
+		"side": "Server"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/8/aitasks/1/code",
+        "value": "drifterfleeentity",
+        "file": "entities/land/drifter.json",
+		"side": "Server"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/8/aitasks/4/code",
+        "value": "drifterseekentity",
+        "file": "entities/land/drifter.json",
+		"side": "Server"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/8/aitasks/7/code",
+        "value": "drifterwander",
+        "file": "entities/land/drifter.json",
+		"side": "Server"
+    },
+    {
+        "op": "replace",
+        "path": "/server/behaviors/8/aitasks/8/code",
+        "value": "drifterwander",
+        "file": "entities/land/drifter.json",
+		"side": "Server"
+    }
+]
