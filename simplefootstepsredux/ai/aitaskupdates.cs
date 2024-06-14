@@ -7,14 +7,27 @@ namespace simplefootstepsredux
 
     public class AiTaskLoudWander : AiTaskWander
     {
-        public AssetLocation stepSound = new AssetLocation("simplefootstepsredux", "sounds/creature/steps/npc");
+        string trigger = "wander";
+        public AssetLocation stepSound;
+        bool alreadycheckedforsound = false;
         public float stepTimer = new float();
-
+        float stepTimerStop = 0.55f;
         public override bool ContinueExecute(float dt)
         {
+            if (stepSound == null && !alreadycheckedforsound)
+            {
+                alreadycheckedforsound=true;
+                SoundEntry trysound = simplefootstepsreduxModSystem.GetSoundEntry(entity, trigger);
+                if (trysound != null)
+                {
+                    stepSound = new AssetLocation(trysound.soundFile);
+                    stepTimerStop = trysound.soundTime;
+                }
+            }
+            if (stepSound == null) { return base.ContinueExecute(dt); }
             stepTimer += dt;
 
-            if (stepTimer >= 0.55)
+            if (stepTimer >= stepTimerStop)
             {
                 world.PlaySoundAt(stepSound, entity.Pos.X, entity.Pos.Y, entity.Pos.Z);
                 stepTimer = 0;

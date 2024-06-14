@@ -1,5 +1,6 @@
 ﻿
 using System.Collections.Generic;
+using System.Linq;
 using Vintagestory.API.Common;
 using Vintagestory.API.Common.Entities;
 using Vintagestory.API.MathTools;
@@ -21,6 +22,7 @@ namespace simplefootstepsredux
                     test.soundTrigger = "wander";
                     test.soundFile = "simplefootstepsredux:sounds/creature/steps/npc";
                     test.soundTime = 0.55f;
+                    soundEntries.Add(test);
                 }
                 return soundEntries;
 
@@ -39,6 +41,12 @@ namespace simplefootstepsredux
 
             
 
+        }
+        public static SoundEntry GetSoundEntry(Entity forentity, string soundTrigger)
+        {
+            if (forentity == null) { return null; }
+            SoundEntry find = SoundEntries.FirstOrDefault(x => forentity.Code.ToString().Contains(x.mobMatchCode) && x.soundTrigger == soundTrigger, null);
+            return find;
         }
     }
 }

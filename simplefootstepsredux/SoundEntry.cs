@@ -21,5 +21,5 @@ namespace simplefootstepsredux
         public string soundFile; //the full filename of the relevant sound eg: simplefootstepsredux:sounds/creature/steps/npc
         public float soundTime; //the delay between sounds eg: 0.55
     }
-
+    
 }
