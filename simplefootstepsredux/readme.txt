@@ -15,6 +15,7 @@ soundTrigger - this is which sound you are referring to, there are 4:
    fleeentity - footsteps played when the mob is running away
    seekentity - footsteps palyed when the mob is trying to reach a target
    getoutofwater - footsteps made when the mob is walking thru the water
+   stayclosetoentity - footsteps made when following another entity
 soundFile - this is the sound file, including the mod domain
 soundTime - how often to play the sound (smaller is more often) - defaults to 0.5 if not specified
 volume (float) - how load to play, 1 is 100% and is the default

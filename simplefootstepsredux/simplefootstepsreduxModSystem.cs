@@ -28,6 +28,7 @@ namespace simplefootstepsredux
             AiTaskRegistry.Register("fleeentity", typeof(AiTaskLoudFleeEntity));
             AiTaskRegistry.Register("seekentity", typeof(AiTaskLoudSeekEntity));
             AiTaskRegistry.Register("getoutofwater", typeof(AiTaskLoudGetOutOfWater));
+            AiTaskRegistry.Register("stayclosetoentity", typeof(AiTaskLoudStayCloseToEntity));
 
 
         }
