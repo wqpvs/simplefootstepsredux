@@ -1,6 +1,6 @@
 [
   {"mobMatchCode": "drifter","soundTrigger": "wander","soundFile": "simplefootstepsredux:sounds/creature/steps/npc","soundTime": 0.55},
-  {"mobMatchCode": "drifter","soundTrigger": "fleeentity","soundFile": "simplefootstepsredux:sounds/creature/steps/npc","soundTime": 0.25},
+  {"mobMatchCode": "drifter","soundTrigger": "fleeentity","soundFile": "simplefootstepsredux:sounds/creature/steps/eject","soundTime": 0.25},
   {"mobMatchCode": "drifter","soundTrigger": "seekentity","soundFile": "simplefootstepsredux:sounds/creature/steps/drifter","soundTime": 0.35},
   {"mobMatchCode": "drifter","soundTrigger": "getoutofwater","soundFile": "simplefootstepsredux:sounds/creature/steps/water","soundTime": 1}
 
